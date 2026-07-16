@@ -107,12 +107,6 @@ python library_management.py
 
 ---
 
-## Screenshots
-
-The `screenshots/` folder contains sample outputs for each question completed in the assignment.
-
----
-
 ## Author
 
 **Sourab Ghosh**
